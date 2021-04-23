@@ -135,6 +135,14 @@
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg"
     },
+    {
+      "name": "TrueGBP",
+      "address": "0x00000000441378008ea67f4284a57932b1c000a5",
+      "symbol": "TGBP",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12724/large/TGBP.png"
+    },
             {
       "name": "Must",
       "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
@@ -263,7 +271,7 @@
             "decimals": 18,
             "logoURI": "https://etherscan.io/token/images/unionprotocol_32.png"
         },
-        
+
                         {
             "chainId": 137,
             "address": "0xa79e0bfc579c709819f4a0e95d4597f03093b011",
@@ -290,7 +298,7 @@
             "decimals": 18,
             "logoURI": "https://etherscan.io/token/images/cortoken_32.png?v=124124521"
         }
-        
+
     ],
     "version": {
         "major": 1,
