@@ -1014,11 +1014,27 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://api-live.stableonegroup.com/media-upload/mediaFiles/test/2bed54cfb8aa3c851e7ea43d1b900367.png"
+    },
+     {
+      "name": "Rigel Finance",
+      "address": "0x4AF5ff1A60a6eF6C7c8f9C4E304cD9051fCa3Ec0",
+      "symbol": "RGP",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8304.png"
+    },
+    {
+      "name": "Rigel Finance",
+      "address": "0xFA262F303Aa244f9CC66f312F0755d89C3793192",
+      "symbol": "RGP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8304.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 74,
+    "minor": 75,
     "patch": 0
   }
 }
