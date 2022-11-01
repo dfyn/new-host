@@ -8,6 +8,14 @@
   "timestamp": "2021-10-30T12:37:57.000+00:00",
   "tokens": [
     {
+      "name": "Wrapped STOR",
+      "address": "0x5d1245ad0e4f118186042040bB092ABa59bE4167",
+      "symbol": "WSTOR",
+      "decimals": 12,
+      "chainId": 137,
+      "logoURI": "https://wrappedstor.com/files/WSTOR_icon_512x512.png"
+    },
+    {
       "name": "StackOS",
       "address": "0x980111ae1b84e50222c8843e3a7a038f36fecd2b",
       "symbol": "STACK",
