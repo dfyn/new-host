@@ -1174,11 +1174,35 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7332.png"
+    },
+    {
+       "name": "BOB Token",
+       "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+       "symbol": "BOB",
+       "decimals": 18,
+       "chainId": 137,
+       "logoURI": "https://assets.coingecko.com/coins/images/27266/small/Bob-logo.png?1663073030"
+    },
+    {
+       "name": "BOB Token",
+       "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+       "symbol": "BOB",
+       "decimals": 18,
+       "chainId": 1,
+       "logoURI": "https://assets.coingecko.com/coins/images/27266/small/Bob-logo.png?1663073030"
+    },
+    {
+       "name": "BOB Token",
+       "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+       "symbol": "BOB",
+       "decimals": 18,
+       "chainId": 10,
+       "logoURI": "https://assets.coingecko.com/coins/images/27266/small/Bob-logo.png?1663073030"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 87,
+    "minor": 89,
     "patch": 0
   }
 }
