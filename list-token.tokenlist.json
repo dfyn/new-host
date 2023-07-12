@@ -1310,11 +1310,19 @@
 			"decimals": 18,
 			"chainId": 42161,
 			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23038.png"
+		},
+		{
+			"chainId": 7070,
+			"address": "0x5EBCdf1De1781e8B5D41c016B0574aD53E2F6E1A",
+			"name": "WPLQ",
+			"symbol": "WPLQ",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg"
 		}
 	],
 	"version": {
 		"major": 2,
-		"minor": 103,
+		"minor": 104,
 		"patch": 0
 	}
 }
