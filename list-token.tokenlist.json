@@ -1358,7 +1358,23 @@
       "symbol": "OPX",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22673.png"
-    }
+    },
+    {
+			"name": "Route",
+			"address": "0xe3d753334f5ab303585267d59d2ea8b39e71e1f6",
+			"symbol": "Route",
+			"decimals": 18,
+			"chainId": 9600,
+			"logoURI": "https://assets.coingecko.com/coins/images/39474/standard/router.jpg?1722425047"
+		},
+		{
+			"chainId": 9600,
+			"address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+			"name": "USDC",
+			"symbol": "USDC",
+			"decimals": 6,
+			"logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=006"
+		}
   ],
   "version": {
     "major": 2,
