@@ -1,10 +1,7 @@
 {
 	"name": "Default list",
 	"logoURI": "https://raw.githubusercontent.com/ganeshbhagi/new-host/main/logo.png",
-	"keywords": [
-		"dfyn",
-		"defi"
-	],
+	"keywords": ["dfyn", "defi"],
 	"timestamp": "2021-10-30T12:37:57.000+00:00",
 	"tokens": [
 		{
@@ -1319,7 +1316,7 @@
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg"
 		},
-                {
+		{
 			"chainId": 56,
 			"address": "0x9c08951397bc02cd66f69eadbb8d491f8bb08c5e",
 			"name": "PlanQ",
@@ -1327,7 +1324,7 @@
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg"
 		},
-                {
+		{
 			"chainId": 56,
 			"address": "0x06278743169ec1d910c0a8bb5a6d3b522a425dd1",
 			"name": "Crypto Real Estate",
@@ -1335,7 +1332,7 @@
 			"decimals": 18,
 			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/26771.png"
 		},
-                {
+		{
 			"chainId": 324,
 			"address": "0x16A9494e257703797D747540f01683952547EE5b",
 			"name": "iZi",
@@ -1343,7 +1340,7 @@
 			"decimals": 18,
 			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
 		},
-                {
+		{
 			"chainId": 169,
 			"address": "0x91647632245caBf3d66121F86C387aE0ad295F9A",
 			"name": "iZi",
@@ -1351,7 +1348,7 @@
 			"decimals": 18,
 			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
 		},
-                {
+		{
 			"chainId": 1,
 			"address": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
 			"name": "iZi",
@@ -1359,7 +1356,7 @@
 			"decimals": 18,
 			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
 		},
-                {
+		{
 			"chainId": 8453,
 			"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
 			"name": "iZi",
@@ -1367,7 +1364,7 @@
 			"decimals": 18,
 			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
 		},
-                {
+		{
 			"chainId": 5000,
 			"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
 			"name": "iZi",
@@ -1375,7 +1372,7 @@
 			"decimals": 18,
 			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
 		},
-                {
+		{
 			"chainId": 534352,
 			"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
 			"name": "iZi",
@@ -1383,7 +1380,7 @@
 			"decimals": 18,
 			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
 		},
-                {
+		{
 			"chainId": 59144,
 			"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
 			"name": "iZi",
@@ -1391,13 +1388,29 @@
 			"decimals": 18,
 			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
 		},
-                {
+		{
 			"chainId": 56,
 			"address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
 			"name": "iZi",
 			"symbol": "izumi Token",
 			"decimals": 18,
 			"logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+		},
+		{
+			"name": "Route",
+			"address": "0xe3d753334f5ab303585267d59d2ea8b39e71e1f6",
+			"symbol": "Route",
+			"decimals": 18,
+			"chainId": 9600,
+			"logoURI": "https://assets.coingecko.com/coins/images/39474/standard/router.jpg?1722425047"
+		},
+		{
+			"chainId": 9600,
+			"address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+			"name": "USDC",
+			"symbol": "USDC",
+			"decimals": 6,
+			"logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=006"
 		}
 	],
 	"version": {
